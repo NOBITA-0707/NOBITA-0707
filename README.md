@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Atul Kumar 👋
 
-<!--
-**NOBITA-0707/NOBITA-0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Student | Backend Developer | Problem Solver
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in backend development,
+REST APIs, databases, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages**
+C++ • Java • Python • JavaScript
+
+**Backend**
+Node.js • Express.js • MongoDB
+
+**Frontend**
+HTML • CSS • JavaScript • React
+
+**Tools**
+Git • GitHub • Postman
+
+## 🚀 Featured Projects
+
+### 🎵 Spotify Backend API
+
+Node.js • Express.js • MongoDB • JWT • ImageKit
+
+RESTful backend with authentication, role-based authorization,
+music uploads, and album management.
+
+### 📝 Quora Posts CRUD
+
+Node.js • Express.js • EJS • JavaScript
+
+CRUD web application implementing create, read, update,
+and delete operations.
+
+### 🎮 Tic Tac Toe
+
+Interactive browser game built with HTML, CSS and JavaScript.
+
+### ✂️ Rock Paper Scissors
+
+Browser-based game using JavaScript game logic and DOM manipulation.
+
+## 🧩 Problem Solving
+
+- 300+ LeetCode problems solved
+- Regular DSA practice
+- Focused on interview preparation
+
+## 📫 Connect With Me
+
+GitHub: [NOBITA-0707](https://github.com/NOBITA-0707)
