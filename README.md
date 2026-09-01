@@ -104,14 +104,18 @@ Interactive browser game featuring computer-generated choices and JavaScript-bas
 
 ## 🧩 DSA & Problem Solving
 
-- 🏆 **400+ LeetCode problems solved**
-- 🔥 Consistent problem-solving practice
-- 💡 Arrays & Hashing
-- 🔍 Binary Search
-- 👥 Two Pointers & Sliding Window
-- 🌳 Trees & Graphs
-- 📚 Dynamic Programming
-- ⚡ STL & Core Data Structures
+- 🏆 **300+ LeetCode problems solved**
+- 🔥 **194+ active coding days**
+- ⚡ **114-day maximum coding streak**
+- 🧠 Strong focus on Data Structures & Algorithms
+- 💡 Regular practice of Arrays, Hashing, Binary Search, Sliding Window,
+  Trees, Graphs, Dynamic Programming, and more
+
+### 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ATUL-07?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
