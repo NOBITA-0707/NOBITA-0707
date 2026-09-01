@@ -1,35 +1,47 @@
 # Hi, I'm Atul Kumar 👋
 
-### 💻 Backend Developer | B.Tech CSE | DSA & Problem Solving
+### Full-Stack MERN Developer | B.Tech CSE | DSA & Problem Solving
 
-I'm a Computer Science student passionate about **backend development, REST APIs, databases, and problem solving**.
+I'm a Computer Science student focused on building **full-stack web applications and scalable backend APIs** using the MERN stack.
 
-I enjoy building practical applications, learning new technologies, and improving my problem-solving skills through competitive programming and DSA.
+I enjoy turning ideas into practical applications, working with databases and APIs, and continuously improving my problem-solving skills through DSA.
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
+
+### Full Stack — MERN
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</p>
 
 ### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Web Technologies
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### Tools & Services
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
@@ -39,17 +51,17 @@ I enjoy building practical applications, learning new technologies, and improvin
 
 **Node.js • Express.js • MongoDB • JWT • ImageKit**
 
-A RESTful backend API for a Spotify-like music application featuring:
+A backend API for a Spotify-like application with:
 
-- 🔐 User & artist authentication
-- 🎫 JWT-based authorization
-- 👤 Role-based access control
+- 🔐 Authentication & authorization
+- 👤 User and artist roles
+- 🎫 JWT-based authentication
 - 🎵 Music upload functionality
-- ☁️ Cloud storage using ImageKit
+- ☁️ ImageKit cloud storage
 - 💿 Album management
-- 🗄️ MongoDB database integration
+- 🗄️ MongoDB & Mongoose
 
-🔗 **[View Project](https://github.com/NOBITA-0707/Spotify-Backend-API)**
+🔗 [View Project](https://github.com/NOBITA-0707/Spotify-Backend-API)
 
 ---
 
@@ -57,16 +69,16 @@ A RESTful backend API for a Spotify-like music application featuring:
 
 **Node.js • Express.js • EJS • JavaScript**
 
-A CRUD-based web application inspired by Quora that demonstrates:
+A CRUD web application inspired by Quora implementing:
 
-- ➕ Create posts
-- 📖 Read posts
-- ✏️ Update posts
-- 🗑️ Delete posts
-- 🔄 RESTful routing
-- 🎨 Server-side rendering with EJS
+- Create posts
+- Read posts
+- Update posts
+- Delete posts
+- RESTful routing
+- Server-side rendering with EJS
 
-🔗 **[View Project](https://github.com/NOBITA-0707/Quora-posts-crud)**
+🔗 [View Project](https://github.com/NOBITA-0707/Quora-posts-crud)
 
 ---
 
@@ -74,9 +86,9 @@ A CRUD-based web application inspired by Quora that demonstrates:
 
 **HTML • CSS • JavaScript**
 
-An interactive browser-based Tic Tac Toe game built to practice JavaScript logic, DOM manipulation, and event handling.
+Interactive browser game built to practice JavaScript, DOM manipulation, event handling, and game logic.
 
-🔗 **[View Project](https://github.com/NOBITA-0707/Tic-Tac-Toe-Game)**
+🔗 [View Project](https://github.com/NOBITA-0707/Tic-Tac-Toe-Game)
 
 ---
 
@@ -84,33 +96,44 @@ An interactive browser-based Tic Tac Toe game built to practice JavaScript logic
 
 **HTML • CSS • JavaScript**
 
-A browser-based Rock Paper Scissors game featuring random computer choices and interactive game logic.
+Interactive browser game featuring computer-generated choices and JavaScript-based game logic.
 
-🔗 **[View Project](https://github.com/NOBITA-0707/Rock-Paper-Scissor-Game)**
-
----
-
-## 🧩 Problem Solving
-
-- 🏆 **300+ LeetCode problems solved**
-- 🔥 Consistent DSA practice
-- 📚 Focused on interview-oriented problem solving
-- 💡 Practicing Arrays, Hashing, Two Pointers, Sliding Window, Binary Search, Trees, Graphs, DP and more
+🔗 [View Project](https://github.com/NOBITA-0707/Rock-Paper-Scissor-Game)
 
 ---
 
-## 🎯 Currently
+## 🧩 DSA & Problem Solving
 
-- 🔭 Building backend projects with **Node.js & Express.js**
-- 🌱 Strengthening **DSA & Core Computer Science concepts**
-- 🚀 Preparing for **Software Engineering placements**
-- 📖 Learning and improving every day
+- 🏆 **400+ LeetCode problems solved**
+- 🔥 Consistent problem-solving practice
+- 💡 Arrays & Hashing
+- 🔍 Binary Search
+- 👥 Two Pointers & Sliding Window
+- 🌳 Trees & Graphs
+- 📚 Dynamic Programming
+- ⚡ STL & Core Data Structures
+
+---
+
+## 🎯 Currently Working On
+
+- 🚀 Building full-stack applications with the **MERN stack**
+- 🔧 Developing backend APIs with **Node.js & Express.js**
+- 🗄️ Working with **MongoDB**
+- 🧩 Improving **DSA & problem-solving skills**
+- 💼 Preparing for **Software Engineering placements**
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NOBITA-0707&show_icons=true&hide_border=true)
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p>
   <a href="https://github.com/NOBITA-0707">
     <img src="https://img.shields.io/badge/GitHub-NOBITA--0707-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -120,4 +143,4 @@ A browser-based Rock Paper Scissors game featuring random computer choices and i
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's build, learn, and solve problems together.**
+**Build • Learn • Solve • Repeat 🚀**
