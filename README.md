@@ -104,8 +104,8 @@ Interactive browser game featuring computer-generated choices and JavaScript-bas
 
 ## 🧩 DSA & Problem Solving
 
-- 🏆 **300+ LeetCode problems solved**
-- 🔥 **194+ active coding days**
+- 🏆 **400+ LeetCode problems solved**
+- 🔥 **237+ active coding days**
 - ⚡ **114-day maximum coding streak**
 - 🧠 Strong focus on Data Structures & Algorithms
 - 💡 Regular practice of Arrays, Hashing, Binary Search, Sliding Window,
