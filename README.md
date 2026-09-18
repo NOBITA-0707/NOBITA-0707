@@ -135,7 +135,6 @@ An interactive browser game featuring computer-generated choices and JavaScript-
   <img src="https://github-readme-stats.vercel.app/api?username=NOBITA-0707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOBITA-0707&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
-
 ---
 
 ## 🎯 Currently Working On
