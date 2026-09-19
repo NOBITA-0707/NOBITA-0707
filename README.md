@@ -68,7 +68,7 @@ A backend API for a Spotify-like application featuring:
 
 **Node.js • Express.js • EJS • JavaScript**
 
-A CRUD web application inspired by Quora with:
+A CRUD web application inspired by Quora featuring:
 
 * Create posts
 * Read posts
@@ -125,16 +125,25 @@ An interactive browser game featuring computer-generated choices and JavaScript-
   <img src="https://leetcard.jacoblin.cool/ATUL-07?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode Stats"/>
 </p>
 
-🔗 **[View My LeetCode Profile](https://leetcode.com/u/ATUL-07/)**
+<p align="center">
+  <a href="https://leetcode.com/u/ATUL-07/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NOBITA-0707&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOBITA-0707&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NOBITA-0707&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NOBITA-0707&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NOBITA-0707&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ## 🎯 Currently Working On
